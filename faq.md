@@ -1,4 +1,4 @@
-# FAQ - Questions Fréquentes ❓# FAQ French.gg - Questions Fréquemment Posées
+# ❓ FAQ - Questions Fréquentes 
 
 
 
