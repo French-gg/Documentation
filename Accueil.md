@@ -1,4 +1,4 @@
-# Bienvenue sur la Documentation French.gg ! 🇫🇷
+# Accueil de la doccumentation
 
 > **Bonjour et bienvenue dans la documentation officielle de French.gg !**
 
@@ -20,21 +20,15 @@ Cette documentation contient **tout ce que vous devez savoir** pour utiliser Fre
 
 ## 🆘 Besoin d'aide ?
 
-Si vous ne trouvez pas la réponse à votre question dans cette documentation, **n'hésitez pas à nous contacter** !
+Si vous ne trouvez pas la réponse à votre question dans cette documentation, **n'hésitez pas à nous contacter** par l'un de ces moyens !
 
-### 💬 Discord Support (Recommandé)
-Rejoignez notre serveur de support pour une **aide rapide et personnalisée** :
+- **[Serveur Discord](https://discord.gg/gXXEUqUs9A)** 
+Rejoignez notre serveur de support pour une **aide rapide et personnalisée** 
+> Attente moyenne : 30 minutes 
 
-**🔗 [discord.gg/gXXEUqUs9A](https://discord.gg/gXXEUqUs9A)**
-
-- ⚡ **Réponse rapide** : Généralement sous 30 minutes
-- 🤝 **Communauté d'entraide** : D'autres utilisateurs peuvent aussi vous aider
-- 🏆 **Support 24h/24, 7j/7** par notre équipe et la communauté
-
-### 📧 Contact Email
-Pour les demandes spécifiques ou officielles :
-
-**📮 contact@french.gg**
+- **[Adresse mail : contact@french.gg](mailto:contact@french.gg)** 
+Pour les demandes plus techniques ou demandes plus officels
+> Attente moyenne : 2 jours
 
 ---
 
