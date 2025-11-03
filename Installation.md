@@ -1,33 +1,21 @@
-# Installation du Bot French.gg 🤖
+# Installation du Bot French.gg 
 
 > **Guide complet pour ajouter le bot French.gg à votre serveur Discord**
 
-## 🎯 Pourquoi installer le bot ?
-
-Le bot French.gg vous permet de :
-
-- **📢 Promouvoir** votre serveur avec la commande `/bump`
-- **📊 Consulter** les statistiques de votre serveur
-- **⚙️ Gérer** votre serveur directement depuis Discord
-- **🎁 Accéder** aux fonctionnalités Premium
-- **📋 Obtenir** de l'aide et des informations rapidement
-
-## 🚀 Installation Rapide
 
 ### Étape 1 : Inviter le Bot
 
-1. **Rendez-vous** sur [french.gg](https://french.gg)
-2. **Cliquez** sur le bouton **"Inviter le bot"** en haut de la page
+1. **Rendez-vous** sur [french.gg](https://french.gg) ou sur le profil Discord du bot
+2. **Cliquez** sur le bouton **"Inviter le bot"** ( Ou "Ajouter l'application" )
+<img width="368" height="339" alt="image" src="https://github.com/user-attachments/assets/d5fda5fa-730b-4f0c-9614-44a865613ada" />
+
 3. **Sélectionnez** votre serveur Discord dans la liste déroulante
+<img width="478" height="722" alt="image" src="https://github.com/user-attachments/assets/5852dd26-4e84-4973-b0bb-8a947150ae49" />
+  
 4. **Vérifiez** les permissions demandées (voir section ci-dessous)
 5. **Cliquez** sur **"Autoriser"**
+<img width="481" height="723" alt="image" src="https://github.com/user-attachments/assets/7ab69b29-064e-4f4b-b438-266057acf617" />
 
-### Étape 2 : Vérification
-
-1. **Retournez** sur votre serveur Discord
-2. **Vérifiez** que le bot French.gg a bien rejoint
-3. **Tapez** `/help` pour voir toutes les commandes disponibles
-4. **Testez** avec `/statut` pour vérifier le statut de votre serveur
 
 ## 🔐 Permissions Requises
 
@@ -35,61 +23,19 @@ Le bot French.gg demande uniquement les permissions **essentielles** :
 
 ### ✅ Permissions Accordées
 
+- **🔗 Créer une invitation** : Afin de pouvoir inviter les utilisateurs sur votre serveur
 - **📨 Envoyer des messages** : Pour répondre aux commandes
 - **💬 Utiliser les slash commands** : Pour les commandes `/bump`, `/help`, etc.
 - **🔗 Intégrer des liens** : Pour afficher les aperçus enrichis
 - **📎 Joindre des fichiers** : Pour envoyer des images et graphiques
 
-### ❌ Permissions NON Demandées
-
-- ❌ **Aucune permission d'administration**
-- ❌ **Aucun accès aux messages privés**  
-- ❌ **Aucune permission de gestion des rôles**
-- ❌ **Aucune permission de bannissement**
-
 > **🛡️ Sécurité** : Le bot French.gg ne demande que le strict minimum et ne peut pas nuire à votre serveur.
 
-## 🎮 Commandes Principales
-
-Une fois installé, voici les commandes les plus importantes :
-
-### 📢 `/bump`
-**La commande star !** Promote votre serveur sur French.gg
-- **Utilisation** : `/bump`
-- **Cooldown** : 2 heures entre chaque bump
-- **Effet** : Remet votre serveur en première page
-
-### ℹ️ `/help`
-Affiche toutes les commandes disponibles et l'aide
 
 ### 🏷️ `/statut`
 Vérifie si votre serveur est bien référencé sur French.gg
+> Les serveurs sont vérifié par notre équipe de modération, son ajout est donc pas instantané et peux prendre jusqu'à 4 jours
 
-### 👤 `/profil [@utilisateur]`
-Affiche le profil French.gg d'un membre
-
-### 🛍️ `/boutique`
-Découvre les fonctionnalités Premium disponibles
-
-### 🔧 `/serverinfo` et `/userinfo`
-Informations détaillées sur votre serveur ou un utilisateur
-
-## 🎯 Configuration Recommandée
-
-### Canal Dédié (Optionnel)
-Créez un canal `#bump` ou `#promo` dédié à la promotion :
-
-1. **Créez** un nouveau canal textuel
-2. **Nommez-le** `#bump` ou `#promotion`
-3. **Utilisez** ce canal pour toutes les commandes `/bump`
-4. **Ajoutez** une description explicative
-
-### Rôle de Gestion (Optionnel)
-Vous pouvez créer un rôle pour les personnes autorisées à utiliser `/bump` :
-
-1. **Créez** un rôle `@Promoteur` ou similaire
-2. **Assignez-le** aux membres de confiance
-3. **Communiquez** sur ce rôle dans votre serveur
 
 ## ⚠️ Problèmes Courants
 
