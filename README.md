@@ -1,102 +1,102 @@
-# French.gg - Guide Utilisateur Complet 🇫🇷
+# Documentation French.gg 📚
 
-> **Bienvenue sur French.gg, la plateforme de référence pour découvrir des serveurs Discord francophones !**
+> **Guide complet pour utiliser French.gg - La plateforme de référence pour les serveurs Discord francophones**
 
-French.gg vous permet de trouver facilement de nouvelles communautés Discord et de promouvoir vos propres serveurs. Cette documentation vous explique tout ce que vous devez savoir pour bien utiliser la plateforme.
+Bienvenue dans la documentation officielle de French.gg ! Vous trouverez ici toutes les informations nécessaires pour utiliser efficacement notre plateforme et développer vos communautés Discord.
 
-## 🌟 Qu'est-ce que French.gg ?
+## 🏠 Commencer ici
 
-Vous pouvez utiliser French.gg via deux outils principaux :
+### 📖 Guides Principaux
 
-### 🌐 Le Site Web
-Le site internet où vous pouvez :
-- **Découvrir** des centaines de serveurs Discord francophones
-- **Naviguer** par catégories et filtres
-- **Créer votre profil** personnalisé
-- **Promouvoir** vos propres serveurs
+- **[� Accueil](./Accueil.md)** - Présentation et liens de support
+- **[⚙️ Installation](./Installation.md)** - Comment installer le bot Discord French.gg
 
-### 🤖 Le Bot Discord
-Un bot que vous pouvez inviter sur vos serveurs pour :
-- **Référencer** automatiquement votre serveur
-- **Promouvoir** votre communauté (système de "bump")
-- **Accéder** aux fonctionnalités French.gg directement sur Discord
+## 🎯 Gestion de Serveurs
 
-## 🚀 Comment Commencer ?
+### 🎮 Documentation Serveurs
 
-### 1️⃣ Première Visite
-1. **Allez sur** [french.gg](https://french.gg)
-2. **Explorez** les serveurs sans créer de compte
-3. **Filtrez** par catégories qui vous intéressent
-4. **Cliquez** sur un serveur pour voir sa page détaillée
+- **[📖 Guide Complet Serveurs](./Serveur/README.md)** - Vue d'ensemble de la gestion serveur
+- **[🎨 Personnaliser son serveur](./Serveur/personnaliser-son-serveur.md)** - Optimiser la page de votre serveur
+- **[📢 Système de Bump](./Serveur/bump.md)** - Promouvoir efficacement votre serveur
+- **[📊 Statut du serveur](./Serveur/statut.md)** - Vérifier l'état de votre référencement
+- **[� Réglementation](./Serveur/reglementation.md)** - Règles à respecter
+- **[🏆 Serveur Officiel & Vérifié](./Serveur/serveur-officiel-verifie.md)** - Obtenir les statuts prestigieux
+- **[🤝 Programme Partenaire](./Serveur/serveur-partenaire.md)** - Collaboration avancée
+- **[🔗 Programme Affilié](./Serveur/serveur-affilie.md)** - Premier niveau de partenariat
 
-### 2️⃣ Créer un Compte (Optionnel)
-1. **Cliquez** sur "Se connecter" en haut à droite
-2. **Autorisez** l'accès via votre compte Discord
-3. **Personnalisez** votre profil French.gg
+## 👤 Gestion de Profil
 
-### 3️⃣ Ajouter Votre Serveur
-1. **Invitez** le bot French.gg sur votre serveur Discord
-2. **Complétez** les informations sur le site web ou via le bot
-3. **Promouvez** régulièrement avec `/bump`
+### 🎨 Documentation Profils
 
-## ⚡ Fonctionnalités Principales
+- **[📖 Guide Complet Profils](./Profil/README.md)** - Vue d'ensemble de la gestion profil
+- **[🎨 Personnaliser son profil](./Profil/personnaliser-son-profil.md)** - Créer un profil attractif
+- **[🌐 Réseaux sociaux](./Profil/reseaux-sociaux.md)** - Connecter vos comptes externes
+- **[🏆 Badges](./Profil/badges.md)** - Débloquer des récompenses
+- **[👥 Abonnements/Abonnés](./Profil/abonnements.md)** - Système social de French.gg
+- **[👆 Likes](./Profil/likes.md)** - Système d'appréciation et interactions
 
-### 🔍 Découverte de Serveurs
-- **Navigation intuitive** : Parcourez par catégories (Gaming, Communauté, Publicitaire, etc.)
-- **Pages détaillées** : Description, bannières, informations sur le serveur...
-- **Rejoindre facilement** : Bouton d'invitation directe
+## � Groupes de Serveurs
 
-### 👤 Profils Personnalisés
-- **Page personnelle** : Votre profil sur French.gg
-- **Réseaux sociaux** : Liez Discord, Twitch, YouTube, Instagram et bien plus encore...
-- **Badges** : Débloquez des récompenses en participant au projet !
-- **Statistiques** : Vos serveurs, vos likes, votre activité
+### 🎪 Documentation Groupes
 
-### 🏆 Système de Promotion
-- **Bump** : Remontez votre serveur en première page
-- **Cooldown 2h** : Une promotion toutes les 2 heures maximum  
-- **Rappels** : Le bot peut vous rappeler quand c'est possible
+- **[📖 Guide Complet Groupes](./Groupe/README.md)** - Présentation des groupes de serveurs
+- **[🎪 Créer un Groupe](./Groupe/creer-groupe.md)** - Processus de création
+- **[📝 Conditions](./Groupe/conditions.md)** - Critères d'éligibilité
+- **[⚙️ Gérer un Groupe](./Groupe/gerer-groupe.md)** - Administration avancée
 
-## 🤖 Utiliser le Bot Discord
+## 💎 French.gg Premium
 
-### Inviter le Bot
-1. **Allez sur** [french.gg](https://french.gg)
-2. **Cliquez** sur "Inviter le bot" 
-3. **Sélectionnez** votre serveur Discord
-4. **Accordez** les permissions demandées
-5. **Le bot est prêt !** Tapez `/help` pour commencer
+### � Documentation Premium
 
-### Commandes Principales
+- **[📖 Guide Complet Premium](./Premium/README.md)** - Présentation de l'abonnement
+- **[💎 Fonctionnalités](./Premium/fonctionnalites.md)** - Tous les avantages Premium
+- **[💳 Acheter Premium](./Premium/acheter.md)** - Processus d'achat
+- **[❌ Annuler Premium](./Premium/annuler.md)** - Gestion des annulations
 
-#### 📢 `/bump`
-**La commande la plus importante !** Permet de promouvoir votre serveur sur French.gg
-- **Utilisation** : Tapez simplement `/bump`
-- **Cooldown** : 2 heures entre chaque bump
-- **Effet** : Remet votre serveur en première page
-- **Rappel** : Le bot peut vous rappeler quand c'est possible
+## ⚖️ Informations Légales
 
-#### ℹ️ `/help` 
-Affiche toutes les commandes disponibles et comment les utiliser
+### 📋 Documentation Légale
 
-#### 🏷️ `/statut`
-Affiche le statut de visibilité de votre serveur sur French.gg :
-- Est-il référencé ?
+- **[⚖️ Mentions Légales](./Legales/README.md)** - SIRET, RGPD, mentions obligatoires
 
-#### 🛍️ `/boutique`
-Découvrez les fonctionnalités Premium disponibles
+## ❓ Support et FAQ
 
-#### 👤 `/profil [@utilisateur]`
-Affiche le profil French.gg d'un membre de votre serveur
+### 🆘 Aide et Questions
 
-#### 🔧 `/serverinfo` et `/userinfo`
-Informations détaillées sur votre serveur Discord ou un utilisateur
+- **[❓ FAQ Complète](./FAQ.md)** - Réponses aux questions les plus fréquentes
 
-## 🌐 Naviguer sur le Site Web
+---
 
-### Page d'Accueil
-- **Serveurs** : Les communautés les plus actives
-- **Catégories** : Accès rapide aux différents types de serveurs
-- **Recherche** : Trouvez exactement ce que vous cherchez
+## 🚀 Liens Rapides
+
+### 🌐 Plateformes Officielles
+- **Site Principal** : [french.gg](https://french.gg)
+- **Discord Support** : [discord.gg/gXXEUqUs9A](https://discord.gg/gXXEUqUs9A)
+
+### 📧 Contacts Directs
+- **Support Général** : contact@french.gg
+- **Support Premium** : premium@french.gg
+- **Signalements** : abuse@french.gg
+
+---
+
+## 🎯 Navigation Rapide
+
+### � Pour Commencer
+1. **[🏠 Lisez l'accueil](./Accueil.md)** pour comprendre French.gg
+2. **[⚙️ Installez le bot](./Installation.md)** sur votre serveur
+3. **[🎨 Personnalisez](./Serveur/personnaliser-son-serveur.md)** votre page serveur
+4. **[📢 Commencez à bumper](./Serveur/bump.md)** pour gagner en visibilité
+
+### 🏆 Pour Aller Plus Loin
+1. **[👤 Optimisez votre profil](./Profil/personnaliser-son-profil.md)** 
+2. **[🏆 Débloquez des badges](./Profil/badges.md)**
+3. **[� Découvrez Premium](./Premium/README.md)** pour plus de fonctionnalités
+4. **[🤝 Postulez Partenaire](./Serveur/serveur-partenaire.md)** si éligible
+
+---
+
+> **💡 Besoin d'aide ?** Rejoignez notre [Discord Support](https://discord.gg/gXXEUqUs9A) pour une assistance rapide et personnalisée !
 
 ### Catégories Disponibles
 - 🎮 **Gaming** : Serveurs de jeux et e-sport  

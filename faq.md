@@ -1,195 +1,386 @@
-# FAQ French.gg - Questions Fréquemment Posées
+# FAQ - Questions Fréquentes ❓# FAQ French.gg - Questions Fréquemment Posées
 
-## 🎯 Général
 
-### Qu'est-ce que French.gg ?
+
+> **Réponses aux questions les plus courantes sur French.gg**## 🎯 Général
+
+
+
+## 🚀 Premiers Pas### Qu'est-ce que French.gg ?
+
 French.gg est une plateforme dédiée à la découverte et à la promotion de serveurs Discord francophones. Elle permet aux utilisateurs de trouver facilement des communautés qui correspondent à leurs intérêts, tout en offrant aux propriétaires de serveurs un moyen efficace d'augmenter leur visibilité.
 
-### French.gg est-il sûr à utiliser ?
+### ❓ Comment créer un compte sur French.gg ?
+
+**Réponse :** Il suffit de vous connecter avec votre compte Discord ! Allez sur [french.gg](https://french.gg), cliquez sur "Se connecter" et autorisez l'accès. Votre profil sera créé automatiquement.### French.gg est-il sûr à utiliser ?
+
 Oui, French.gg est totalement sécurisé. La plateforme :
-- Ne demande aucune permission sensible pour fonctionner
-- Est hébergée sur des infrastructures sécurisées (OVH France)
+
+### ❓ French.gg est-il gratuit ?- Ne demande aucune permission sensible pour fonctionner
+
+**Réponse :** Oui ! L'utilisation de base (navigation, création de profil, référencement de serveur, bump) est entièrement gratuite. Seul l'abonnement Premium (1,99€/mois) est payant pour des fonctionnalités avancées.- Est hébergée sur des infrastructures sécurisées (OVH France)
+
 - Respecte le RGPD et protège vos données personnelles
-- Utilise des protocoles de sécurité standards (HTTPS, OAuth2)
 
-### French.gg est-il gratuit ?
-Oui, French.gg est gratuit pour la plupart des fonctionnalités :
-- ✅ Découverte et navigation des serveurs
-- ✅ Création de profil utilisateur de base
+### ❓ Comment ajouter mon serveur sur French.gg ?- Utilise des protocoles de sécurité standards (HTTPS, OAuth2)
+
+**Réponse :** 
+
+1. Ajoutez d'abord le bot à votre serveur via le site### French.gg est-il gratuit ?
+
+2. Complétez les informations de votre serveur sur french.ggOui, French.gg est gratuit pour la plupart des fonctionnalités :
+
+3. Attendez la validation (24-48h maximum)- ✅ Découverte et navigation des serveurs
+
+4. Commencez à utiliser `/bump` pour promouvoir !- ✅ Création de profil utilisateur de base
+
 - ✅ Utilisation du bot Discord
-- ✅ Référencement de serveurs
 
-Des fonctionnalités Premium sont disponibles pour améliorer l'expérience (personnalisation avancée, statistiques détaillées, support prioritaire).
+## 🤖 Bot Discord- ✅ Référencement de serveurs
 
-### Qui développe French.gg ?
-French.gg est développé et édité par **Delavigne Digital** (SIRET: 984 542 415 00059), une entreprise française basée à Paris. L'équipe est composée de développeurs passionnés par Discord et la communauté francophone.
 
-## 🔐 Compte et Sécurité
 
-### Comment créer un compte ?
-1. Rendez-vous sur [french.gg](https://french.gg)
+### ❓ Le bot ne répond pas à mes commandes ?Des fonctionnalités Premium sont disponibles pour améliorer l'expérience (personnalisation avancée, statistiques détaillées, support prioritaire).
+
+**Réponses possibles :**
+
+- Vérifiez que le bot a les permissions nécessaires dans le canal### Qui développe French.gg ?
+
+- Utilisez `/` pour déclencher les slash commands  French.gg est développé et édité par **Delavigne Digital** (SIRET: 984 542 415 00059), une entreprise française basée à Paris. L'équipe est composée de développeurs passionnés par Discord et la communauté francophone.
+
+- Consultez le statut sur [french.gg/statut](https://french.gg/statut)
+
+- Contactez le support si le problème persiste## 🔐 Compte et Sécurité
+
+
+
+### ❓ Combien de temps entre chaque `/bump` ?### Comment créer un compte ?
+
+**Réponse :** Il y a un cooldown de **2 heures** entre chaque bump. Avec Premium, ce délai est réduit à 1h30.1. Rendez-vous sur [french.gg](https://french.gg)
+
 2. Cliquez sur "Se connecter"
-3. Autorisez l'accès via Discord OAuth
-4. Votre compte est automatiquement créé !
 
-Aucune information supplémentaire n'est requise - votre compte Discord suffit.
+### ❓ Puis-je automatiser les bumps ?3. Autorisez l'accès via Discord OAuth
 
-### Quelles données collectez-vous ?
-French.gg collecte uniquement les données nécessaires au fonctionnement :
+**Réponse :** Non, c'est strictement interdit ! Les bumps automatisés via des bots tiers peuvent entraîner la suppression de votre serveur de French.gg.4. Votre compte est automatiquement créé !
+
+
+
+## 👤 Profils et ComptesAucune information supplémentaire n'est requise - votre compte Discord suffit.
+
+
+
+### ❓ Comment modifier mon profil ?### Quelles données collectez-vous ?
+
+**Réponse :** Connectez-vous sur [french.gg](https://french.gg), allez dans "Mon Profil" puis cliquez sur "Modifier". Vous pouvez changer description, réseaux sociaux, paramètres de confidentialité, etc.French.gg collecte uniquement les données nécessaires au fonctionnement :
+
 - **Données Discord** : ID utilisateur, pseudo, avatar (via OAuth2)
-- **Données de navigation** : Pages visitées, préférences (anonymisées)
-- **Données volontaires** : Informations de profil que vous choisissez de partager
 
-Consultez notre [Politique de Confidentialité](https://french.gg/confidentialite) pour plus de détails.
+### ❓ Puis-je changer mon pseudo sur French.gg ?- **Données de navigation** : Pages visitées, préférences (anonymisées)
+
+**Réponse :** Votre pseudo French.gg est synchronisé avec Discord. Pour le changer, modifiez-le sur Discord et il sera mis à jour automatiquement sur French.gg.- **Données volontaires** : Informations de profil que vous choisissez de partager
+
+
+
+### ❓ Comment supprimer mon compte ?Consultez notre [Politique de Confidentialité](https://french.gg/confidentialite) pour plus de détails.
+
+**Réponse :** Contactez le support via Discord ou email avec votre demande. Vos données seront supprimées conformément au RGPD dans les 30 jours.
 
 ### Comment supprimer mon compte ?
-Pour supprimer votre compte French.gg :
-1. Connectez-vous sur [french.gg](https://french.gg)
-2. Accédez à vos paramètres de profil
-3. Cliquez sur "Supprimer mon compte"
-4. Confirmez la suppression
 
-⚠️ Cette action est irréversible et supprime toutes vos données.
+## 🏆 Badges et RécompensesPour supprimer votre compte French.gg :
+
+1. Connectez-vous sur [french.gg](https://french.gg)
+
+### ❓ Comment débloquer des badges ?2. Accédez à vos paramètres de profil
+
+**Réponse :** Les badges se débloquent automatiquement selon vos actions :3. Cliquez sur "Supprimer mon compte"
+
+- Complétez votre profil pour le badge "Profil Complet"4. Confirmez la suppression
+
+- Soyez actif pour le badge "Membre Actif"  
+
+- Trouvez des bugs pour le badge "Bug Hunter"⚠️ Cette action est irréversible et supprime toutes vos données.
+
+- Consultez la [documentation badges](./Profil/badges.md) pour la liste complète
 
 ### Puis-je utiliser plusieurs comptes Discord ?
-Non, un compte French.gg ne peut être lié qu'à un seul compte Discord. Si vous souhaitez changer de compte Discord associé, contactez le support.
+
+### ❓ Pourquoi je n'ai pas reçu un badge ?Non, un compte French.gg ne peut être lié qu'à un seul compte Discord. Si vous souhaitez changer de compte Discord associé, contactez le support.
+
+**Réponse :** Les badges peuvent prendre quelques heures à apparaître. Si vous pensez avoir droit à un badge non attribué, contactez le support avec des preuves (captures d'écran, liens, dates).
 
 ## 🎮 Serveurs Discord
 
+## 💎 French.gg Premium
+
 ### Comment ajouter mon serveur sur French.gg ?
-1. **Invitez le bot** French.gg sur votre serveur
-2. **Utilisez la commande** `/bump` pour référencer votre serveur
-3. **Complétez votre profil** serveur via le dashboard web
-4. **Respectez les règles** communautaires
 
-Le processus est entièrement gratuit et automatisé.
+### ❓ Que m'apporte Premium exactement ?1. **Invitez le bot** French.gg sur votre serveur
 
-### Quels sont les critères d'acceptation ?
+**Réponse :** Premium vous donne :2. **Utilisez la commande** `/bump` pour référencer votre serveur
+
+- Bannière animée sur votre profil3. **Complétez votre profil** serveur via le dashboard web
+
+- Bump toutes les 1h30 au lieu de 2h4. **Respectez les règles** communautaires
+
+- Visibilité renforcée dans les classements
+
+- Support prioritaire sous 2hLe processus est entièrement gratuit et automatisé.
+
+- Accès anticipé aux nouvelles fonctionnalités
+
+- [Voir tous les avantages](./Premium/fonctionnalites.md)### Quels sont les critères d'acceptation ?
+
 Pour être référencé, votre serveur doit :
-- ✅ Être principalement francophone
-- ✅ Avoir au moins 10 membres réels
+
+### ❓ Puis-je annuler Premium à tout moment ?- ✅ Être principalement francophone
+
+**Réponse :** Absolument ! Vous conservez les avantages jusqu'à la fin de votre période payée. L'annulation se fait en un clic dans votre espace client.- ✅ Avoir au moins 10 membres réels
+
 - ✅ Respecter les conditions d'utilisation Discord
-- ✅ Avoir un contenu approprié et légal
-- ✅ Être actif (messages récents)
 
-Les serveurs sont vérifiés automatiquement et manuellement.
+### ❓ Y a-t-il une période d'essai ?- ✅ Avoir un contenu approprié et légal
 
-### Pourquoi mon serveur a été refusé ?
-Les principales raisons de refus :
-- Serveur inactif ou vide
-- Contenu NSFW non déclaré
-- Violation des règles Discord ou French.gg
-- Contenu illégal ou haineux
+**Réponse :** Oui, 7 jours gratuits pour tous les nouveaux abonnés Premium ! Aucun engagement, annulation libre pendant l'essai.- ✅ Être actif (messages récents)
+
+
+
+## 🎮 Serveurs et CommunautésLes serveurs sont vérifiés automatiquement et manuellement.
+
+
+
+### ❓ Mon serveur n'apparaît pas dans les recherches ?### Pourquoi mon serveur a été refusé ?
+
+**Vérifications :**Les principales raisons de refus :
+
+- Votre serveur est-il validé ? (utilisez `/statut`)- Serveur inactif ou vide
+
+- Avez-vous bumpé récemment ? - Contenu NSFW non déclaré
+
+- Êtes-vous dans la bonne catégorie ?- Violation des règles Discord ou French.gg
+
+- Vos tags sont-ils appropriés ?- Contenu illégal ou haineux
+
 - Bot farming ou serveurs artificiels
 
-Vous recevez un email détaillé expliquant les raisons du refus.
+### ❓ Combien de membres minimum pour être référencé ?
 
-### Comment améliorer la visibilité de mon serveur ?
-Pour améliorer votre positionnement :
+**Réponse :** Il n'y a pas de minimum strict, mais nous recommandons au moins 20-30 membres actifs pour une communauté viable. L'activité et la qualité comptent plus que le nombre.Vous recevez un email détaillé expliquant les raisons du refus.
+
+
+
+### ❓ Puis-je référencer plusieurs serveurs ?### Comment améliorer la visibilité de mon serveur ?
+
+**Réponse :** Oui, vous pouvez référencer autant de serveurs que vous voulez, tant qu'ils respectent la réglementation et que vous en êtes propriétaire ou administrateur autorisé.Pour améliorer votre positionnement :
+
 - **Bump régulier** : Utilisez `/bump` toutes les 2h
-- **Profil complet** : Description détaillée, bannière, captures
-- **Activité** : Serveur actif avec interactions régulières
-- **Qualité** : Contenu de qualité et modération efficace
-- **Engagement** : Répondez aux commentaires et messages
 
-### Qu'est-ce que le système de bump ?
-Le bump permet de remettre votre serveur en première page :
+## 🛡️ Sécurité et Modération- **Profil complet** : Description détaillée, bannière, captures
+
+- **Activité** : Serveur actif avec interactions régulières
+
+### ❓ Mes données sont-elles sécurisées ?- **Qualité** : Contenu de qualité et modération efficace
+
+**Réponse :** Oui ! Nous respectons le RGPD, utilisons le chiffrement SSL, hébergeons en France chez OVH, et ne collectons que les données nécessaires au fonctionnement.- **Engagement** : Répondez aux commentaires et messages
+
+
+
+### ❓ Comment signaler un contenu inapproprié ?### Qu'est-ce que le système de bump ?
+
+**Réponse :** Utilisez le bouton "Signaler" présent sur chaque page serveur/profil, ou contactez abuse@french.gg avec les détails. Nous traitons tous les signalements sous 24-48h.Le bump permet de remettre votre serveur en première page :
+
 - **Fréquence** : Toutes les 2 heures maximum
-- **Effet** : Repositionne temporairement en haut de liste
-- **Rappels** : Bot peut vous rappeler quand c'est possible
+
+### ❓ Que se passe si mon serveur est suspendu ?- **Effet** : Repositionne temporairement en haut de liste
+
+**Réponse :** Vous recevrez un email expliquant les raisons. Corrigez les problèmes identifiés et contactez le support pour demander la réactivation. La plupart des suspensions sont levées après corrections.- **Rappels** : Bot peut vous rappeler quand c'est possible
+
 - **Gratuit** : Fonctionnalité entièrement gratuite
+
+## 💰 Facturation et Paiements
 
 ## 👤 Profils et Personnalisation
 
-### Comment personnaliser mon profil ?
+### ❓ Quels moyens de paiement acceptez-vous ?
+
+**Réponse :** Carte bancaire (Visa, Mastercard, Amex) et PayPal. Paiements sécurisés via Stripe. Bientôt disponible : Discord Store et cartes cadeaux.### Comment personnaliser mon profil ?
+
 Accédez aux paramètres de profil pour :
-- **Photo et bannière** : Uploadez vos images (formats supportés : PNG, JPG, GIF)
-- **Description** : Jusqu'à 500 caractères
+
+### ❓ Puis-je avoir une facture pour mon entreprise ?- **Photo et bannière** : Uploadez vos images (formats supportés : PNG, JPG, GIF)
+
+**Réponse :** Oui ! Indiquez votre SIRET lors du paiement pour recevoir une facture HT. Contactez compta@french.gg pour toute question fiscale.- **Description** : Jusqu'à 500 caractères
+
 - **Réseaux sociaux** : Liez Discord, Twitch, YouTube, etc.
-- **Visibilité** : Choisissez qui peut voir votre profil
+
+### ❓ Remboursement possible ?- **Visibilité** : Choisissez qui peut voir votre profil
+
+**Réponse :** Remboursement complet pendant les 7 jours d'essai gratuit. Après, remboursement exceptionnel uniquement en cas de problème technique majeur de notre part.
 
 ### Quels formats d'images sont acceptés ?
-- **Formats** : PNG, JPG, JPEG, GIF, WebP
+
+## 🔧 Problèmes Techniques- **Formats** : PNG, JPG, JPEG, GIF, WebP
+
 - **Taille maximale** : 8 MB par image
-- **Dimensions recommandées** :
-  - Avatar : 256x256 pixels
-  - Bannière : 1920x480 pixels
 
-Les images sont automatiquement optimisées pour les performances.
+### ❓ Le site ne charge pas ou est lent ?- **Dimensions recommandées** :
 
-### Comment obtenir des badges ?
+**Solutions :**  - Avatar : 256x256 pixels
+
+- Vérifiez votre connexion internet  - Bannière : 1920x480 pixels
+
+- Videz le cache de votre navigateur (Ctrl+F5)
+
+- Essayez en navigation privéeLes images sont automatiquement optimisées pour les performances.
+
+- Consultez [french.gg/statut](https://french.gg/statut)
+
+- Contactez le support si ça persiste### Comment obtenir des badges ?
+
 Les badges sont obtenus automatiquement :
-- 🏆 **Vétéran** : Membre depuis plus d'un an
-- ⭐ **Populaire** : Profil très consulté
-- 🔥 **Actif** : Participation régulière
-- 👑 **Premium** : Abonnement actif
-- 🚀 **Ambassadeur** : Programme ambassadeur
-- 🤝 **Partenaire** : Partenariat officiel
-- ✅ **Vérifié** : Profil vérifié manuellement
 
-### Puis-je masquer mon profil ?
-Oui, vous pouvez contrôler la visibilité :
+### ❓ Erreur "Serveur non trouvé" avec le bot ?- 🏆 **Vétéran** : Membre depuis plus d'un an
+
+**Réponse :** Votre serveur n'est probablement pas encore référencé ou validé sur French.gg. Complétez le processus sur le site web puis réessayez les commandes bot.- ⭐ **Populaire** : Profil très consulté
+
+- 🔥 **Actif** : Participation régulière
+
+### ❓ Mes statistiques sont incorrectes ?- 👑 **Premium** : Abonnement actif
+
+**Réponse :** Les statistiques peuvent prendre jusqu'à 30 minutes pour se synchroniser. Si le problème persiste plus longtemps, videz votre cache navigateur ou contactez le support.- 🚀 **Ambassadeur** : Programme ambassadeur
+
+- 🤝 **Partenaire** : Partenariat officiel
+
+## 📱 Applications et Accès- ✅ **Vérifié** : Profil vérifié manuellement
+
+
+
+### ❓ Y a-t-il une app mobile French.gg ?### Puis-je masquer mon profil ?
+
+**Réponse :** Pas encore d'app dédiée, mais le site est optimisé mobile. Une app mobile est en développement pour 2024, disponible d'abord pour les abonnés Premium.Oui, vous pouvez contrôler la visibilité :
+
 - **Public** : Visible par tous les visiteurs
-- **Membres** : Visible uniquement aux membres connectés
-- **Privé** : Visible uniquement par vous
+
+### ❓ Comment utiliser French.gg sur téléphone ?- **Membres** : Visible uniquement aux membres connectés
+
+**Réponse :** Allez simplement sur french.gg avec votre navigateur mobile. L'interface s'adapte automatiquement aux écrans tactiles.- **Privé** : Visible uniquement par vous
+
 - **Réseaux sociaux** : Masquer/afficher individuellement
+
+## 🤝 Support et Communauté
 
 ## 🤖 Bot Discord
 
-### Comment inviter le bot French.gg ?
-1. Utilisez le lien d'invitation officiel sur [french.gg](https://french.gg)
-2. Sélectionnez votre serveur
-3. Accordez les permissions recommandées
+### ❓ Comment contacter le support ?
+
+**Options :**### Comment inviter le bot French.gg ?
+
+- **💬 Discord** : [discord.gg/gXXEUqUs9A](https://discord.gg/gXXEUqUs9A) (le plus rapide !)1. Utilisez le lien d'invitation officiel sur [french.gg](https://french.gg)
+
+- **📧 Email** : contact@french.gg2. Sélectionnez votre serveur
+
+- **⏰ Délai** : 30min-24h selon la complexité3. Accordez les permissions recommandées
+
 4. Le bot est prêt à utiliser !
 
-### Quelles permissions le bot nécessite-t-il ?
-Permissions minimales requises :
-- **Envoyer des messages** : Pour les réponses aux commandes
-- **Utiliser les slash commands** : Pour le système de commandes
+### ❓ Puis-je suggérer des améliorations ?
+
+**Réponse :** Absolument ! Vos suggestions sont précieuses. Utilisez :### Quelles permissions le bot nécessite-t-il ?
+
+- Canal #suggestions sur notre Discord  Permissions minimales requises :
+
+- Email : suggestions@french.gg- **Envoyer des messages** : Pour les réponses aux commandes
+
+- Formulaire de feedback sur le site- **Utiliser les slash commands** : Pour le système de commandes
+
 - **Intégrer des liens** : Pour les embeds riches
-- **Lire l'historique** : Pour certaines statistiques (optionnel)
+
+### ❓ Comment devenir modérateur/ambassadeur ?- **Lire l'historique** : Pour certaines statistiques (optionnel)
+
+**Réponse :** Nous recrutons régulièrement ! Montrez votre engagement dans la communauté, respectez les règles, et surveillez les annonces de recrutement sur Discord et le site.
 
 Aucune permission administrative n'est requise.
 
+## 🌍 International et Langues
+
 ### Pourquoi le bot ne répond pas ?
-Vérifications à effectuer :
-1. **Permissions** : Le bot a-t-il les droits nécessaires ?
+
+### ❓ French.gg accepte-t-il les serveurs non-francophones ?Vérifications à effectuer :
+
+**Réponse :** French.gg se concentre sur la communauté francophone, mais les serveurs multilingues qui accueillent les francophones sont acceptés.1. **Permissions** : Le bot a-t-il les droits nécessaires ?
+
 2. **Statut** : Consultez [french.gg/statut](https://french.gg/statut)
-3. **Commandes** : Utilisez-vous les slash commands (`/help`) ?
-4. **Maintenance** : Vérifiez les annonces sur le Discord support
 
-Si le problème persiste, contactez le support.
+### ❓ Puis-je utiliser French.gg depuis l'étranger ?3. **Commandes** : Utilisez-vous les slash commands (`/help`) ?
 
-### Liste des commandes du bot
-**Commandes générales :**
+**Réponse :** Oui ! French.gg est accessible mondialement. Beaucoup d'utilisateurs français expatriés ou de francophones du monde entier utilisent la plateforme.4. **Maintenance** : Vérifiez les annonces sur le Discord support
+
+
+
+## ⚖️ Légal et RéglementationSi le problème persiste, contactez le support.
+
+
+
+### ❓ Quelles sont les règles à respecter ?### Liste des commandes du bot
+
+**Réponse :** Consultez notre [réglementation complète](./Serveur/reglementation.md). En résumé : contenu légal, communauté authentique, pas de spam, respect d'autrui.**Commandes générales :**
+
 - `/help` - Aide et liste des commandes
-- `/ping` - Test de latence
-- `/stats` - Statistiques globales
-- `/botinfo` - Informations sur French.gg
-- `/userinfo` - Profil Discord d'un utilisateur
-- `/serverinfo` - Informations du serveur
 
-**Commandes serveur :**
-- `/bump` - Promouvoir le serveur
+### ❓ Que risque-t-on en cas de violation ?- `/ping` - Test de latence
+
+**Sanctions graduées :**- `/stats` - Statistiques globales
+
+- Avertissement (première fois)- `/botinfo` - Informations sur French.gg
+
+- Suspension temporaire (récidive)  - `/userinfo` - Profil Discord d'un utilisateur
+
+- Exclusion définitive (violations graves)- `/serverinfo` - Informations du serveur
+
+
+
+### ❓ Comment faire un recours contre une sanction ?**Commandes serveur :**
+
+**Réponse :** Contactez recours@french.gg dans les 30 jours avec votre explication détaillée et les preuves. Chaque cas est revu individuellement.- `/bump` - Promouvoir le serveur
+
 - `/statut` - Statut French.gg du serveur
-- `/profil` - Profil French.gg d'un utilisateur
 
-## 💎 Premium et Abonnements
+---- `/profil` - Profil French.gg d'un utilisateur
 
-### Qu'est-ce que French.gg Premium ?
-Premium débloque des fonctionnalités avancées :
-- **Profil amélioré** : Bannières animées, badges exclusifs
+
+
+## ❓ Votre question n'est pas listée ?## 💎 Premium et Abonnements
+
+
+
+### 💬 Support Discord (Recommandé)### Qu'est-ce que French.gg Premium ?
+
+**[discord.gg/gXXEUqUs9A](https://discord.gg/gXXEUqUs9A)**  Premium débloque des fonctionnalités avancées :
+
+⚡ Réponse rapide par la communauté et l'équipe- **Profil amélioré** : Bannières animées, badges exclusifs
+
 - **Statistiques détaillées** : Analytics avancées
-- **Support prioritaire** : Réponse rapide < 2h
-- **Personnalisation** : Thèmes et couleurs
-- **Accès anticipé** : Nouvelles fonctionnalités en avant-première
 
-### Quels sont les prix ?
-- **Mensuel** : 1,99€/mois
+### 📧 Contact Email- **Support prioritaire** : Réponse rapide < 2h
+
+**contact@french.gg**  - **Personnalisation** : Thèmes et couleurs
+
+📝 Pour questions détaillées ou confidentielles- **Accès anticipé** : Nouvelles fonctionnalités en avant-première
+
+
+
+### 📱 Suivez-nous### Quels sont les prix ?
+
+Restez informés des actualités et nouveautés French.gg !- **Mensuel** : 1,99€/mois
+
 - **Annuel** : 19,99€/an (soit 1,67€/mois - 2 mois gratuits)
-- **À vie** : 99,99€ (offre limitée)
 
-Tous les prix incluent la TVA française.
+---- **À vie** : 99,99€ (offre limitée)
+
+
+
+> **💡 Astuce** : Rejoignez notre Discord ! C'est le meilleur endroit pour obtenir de l'aide rapidement, rencontrer la communauté, et être informé en avant-première des nouveautés French.gg.Tous les prix incluent la TVA française.
 
 ### Comment m'abonner ?
 1. Connectez-vous sur [french.gg](https://french.gg)
