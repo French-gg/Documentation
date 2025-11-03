@@ -6,11 +6,11 @@ French.gg vous permet de trouver facilement de nouvelles communautés Discord et
 
 ## 🌟 Qu'est-ce que French.gg ?
 
-French.gg est composé de deux outils principaux :
+Vous pouvez utiliser French.gg via deux outils principaux :
 
 ### 🌐 Le Site Web
-Un site internet moderne où vous pouvez :
-- **Découvrir** des milliers de serveurs Discord francophones
+Le site internet où vous pouvez :
+- **Découvrir** des centaines de serveurs Discord francophones
 - **Naviguer** par catégories et filtres
 - **Créer votre profil** personnalisé
 - **Promouvoir** vos propres serveurs
@@ -19,7 +19,6 @@ Un site internet moderne où vous pouvez :
 Un bot que vous pouvez inviter sur vos serveurs pour :
 - **Référencer** automatiquement votre serveur
 - **Promouvoir** votre communauté (système de "bump")
-- **Obtenir des statistiques** et informations
 - **Accéder** aux fonctionnalités French.gg directement sur Discord
 
 ## 🚀 Comment Commencer ?
@@ -34,33 +33,29 @@ Un bot que vous pouvez inviter sur vos serveurs pour :
 1. **Cliquez** sur "Se connecter" en haut à droite
 2. **Autorisez** l'accès via votre compte Discord
 3. **Personnalisez** votre profil French.gg
-4. **Commencez** à liker vos serveurs préférés
 
 ### 3️⃣ Ajouter Votre Serveur
 1. **Invitez** le bot French.gg sur votre serveur Discord
-2. **Tapez** `/bump` pour référencer votre serveur
-3. **Complétez** les informations sur le site web
-4. **Promouvez** régulièrement avec `/bump`
+2. **Complétez** les informations sur le site web ou via le bot
+3. **Promouvez** régulièrement avec `/bump`
 
 ## ⚡ Fonctionnalités Principales
 
 ### 🔍 Découverte de Serveurs
-- **Navigation intuitive** : Parcourez par catégories (Gaming, Communauté, Art, etc.)
-- **Filtres avancés** : Taille, activité, langue, contenu
-- **Pages détaillées** : Description, captures d'écran, statistiques
+- **Navigation intuitive** : Parcourez par catégories (Gaming, Communauté, Publicitaire, etc.)
+- **Pages détaillées** : Description, bannières, informations sur le serveur...
 - **Rejoindre facilement** : Bouton d'invitation directe
 
-### � Profils Personnalisés
-- **Page personnelle** : Votre vitrine sur French.gg
-- **Réseaux sociaux** : Liez Discord, Twitch, YouTube, Instagram
-- **Badges** : Débloquez des récompenses en participant
+### 👤 Profils Personnalisés
+- **Page personnelle** : Votre profil sur French.gg
+- **Réseaux sociaux** : Liez Discord, Twitch, YouTube, Instagram et bien plus encore...
+- **Badges** : Débloquez des récompenses en participant au projet !
 - **Statistiques** : Vos serveurs, vos likes, votre activité
 
 ### 🏆 Système de Promotion
-- **Bump gratuit** : Remontez votre serveur en première page
+- **Bump** : Remontez votre serveur en première page
 - **Cooldown 2h** : Une promotion toutes les 2 heures maximum  
 - **Rappels** : Le bot peut vous rappeler quand c'est possible
-- **Statistiques** : Suivez l'impact de vos promotions
 
 ## 🤖 Utiliser le Bot Discord
 
@@ -83,17 +78,9 @@ Un bot que vous pouvez inviter sur vos serveurs pour :
 #### ℹ️ `/help` 
 Affiche toutes les commandes disponibles et comment les utiliser
 
-#### 📊 `/stats`
-Montre les statistiques globales de French.gg :
-- Nombre de serveurs référencés
-- Utilisateurs inscrits  
-- Activité récente
-
 #### 🏷️ `/statut`
-Affiche le statut de votre serveur sur French.gg :
+Affiche le statut de visibilité de votre serveur sur French.gg :
 - Est-il référencé ?
-- Quels badges a-t-il obtenu ?
-- Dernière promotion
 
 #### 🛍️ `/boutique`
 Découvrez les fonctionnalités Premium disponibles
@@ -107,8 +94,7 @@ Informations détaillées sur votre serveur Discord ou un utilisateur
 ## 🌐 Naviguer sur le Site Web
 
 ### Page d'Accueil
-- **Serveurs populaires** : Les communautés les plus actives
-- **Nouveaux serveurs** : Les dernières additions
+- **Serveurs** : Les communautés les plus actives
 - **Catégories** : Accès rapide aux différents types de serveurs
 - **Recherche** : Trouvez exactement ce que vous cherchez
 
@@ -121,21 +107,13 @@ Informations détaillées sur votre serveur Discord ou un utilisateur
 - 🎭 **Role Play** : Jeux de rôle et fiction
 - 📰 **Actualité** : News et débats d'actualité
 - 🧠 **Culture** : Littérature, histoire, sciences
-- 📈 **Investissement** : Finance et cryptomonnaies
+- 📈 **Investissement** : Finance
 - 📢 **Publicitaire** : Promotion et partenariats
-
-### Filtres et Recherche
-- **Taille du serveur** : Petit (moins de 100), Moyen (100-1000), Grand (1000+)
-- **Activité** : Serveurs très actifs, moyennement actifs, ou calmes
-- **Contenu** : Tout public ou contenu mature (NSFW)
-- **Vérification** : Serveurs certifiés par l'équipe French.gg
 
 ### Page Serveur
 Chaque serveur a sa propre page avec :
 - **Description détaillée** : Présentation de la communauté
-- **Captures d'écran** : Aperçu de l'ambiance du serveur  
-- **Statistiques** : Nombre de membres, activité, croissance
-- **Équipe** : Staff et modérateurs du serveur
+- **Diverses personnalisations** : Bannières, lien personnalisé...
 - **Bouton d'invitation** : Rejoindre en un clic
 
 ## � Créer et Gérer Votre Profil
@@ -147,35 +125,34 @@ Chaque serveur a sa propre page avec :
 
 ### Personnalisation
 - **Photo de profil** : Utilisée automatiquement depuis Discord
-- **Bannière** : Ajoutez une image personnalisée (optionnel)
+- **Bannière** : Ajoutez une image personnalisée (À débloquer)
 - **Description** : Présentez-vous en quelques lignes
 - **Réseaux sociaux** : Liez vos comptes (Twitch, YouTube, Instagram, etc.)
 - **Visibilité** : Choisissez qui peut voir votre profil
 
 ### Badges à Débloquer
-- 🏆 **Vétéran** : Membre depuis plus d'un an
-- ⭐ **Populaire** : Profil souvent consulté
-- 🔥 **Actif** : Participation régulière à la communauté
-- 👑 **Premium** : Abonnement Premium actif
-- 🚀 **Ambassadeur** : Membre du programme ambassadeur
-- 🤝 **Partenaire** : Serveur partenaire officiel
-
+- **Supporter** : Donné au utilisateurs ayant effectué un don pour soutenir le projet 
+- **Premium** : Abonnement Premium actif
+- **Ambassadeur** : Membre du programme ambassadeur
+- **Partenaire** : Partenaire officiel de French.gg
+- **Bug Hunter** : Déstiné au utilisateurs ayant contribué au projet en trouvant des bugs 
+- **équipe French.gg** : Badge réservé au membre de l'équipe de French.gg
+  
 ## 💎 Fonctionnalités Premium
 
 ### Qu'est-ce que Premium ?
 French.gg Premium débloque des fonctionnalités exclusives pour améliorer votre expérience :
 
 ### Avantages Premium
-- **Profil amélioré** : Bannière animée, couleurs personnalisées
-- **Statistiques détaillées** : Analytics avancées de vos serveurs
-- **Support prioritaire** : Aide rapide en cas de problème  
-- **Badge exclusif** : Montrez votre soutien à French.gg
+- **Profil amélioré** : Bannière animée
+- **Badge exclusif** : Montrez votre soutien à French.gg avec un badge pour votre profil et votre serveur.
 - **Accès anticipé** : Testez les nouvelles fonctionnalités en premier
+- **Référencement amélioré** : Apparaissez dans la première page !
 
 ### Prix et Abonnement
 - **Mensuel** : 1,99€/mois
-- **Annuel** : 19,99€/an (économisez 2 mois !)
-- Paiement sécurisé via PayPal ou Discord Store
+- **Annuel** : 15,76€/an (économisez 33% !)
+- Paiement sécurisé via PayPal, CB ou via Discord Store
 
 ## 🛡️ Sécurité et Confidentialité
 
@@ -200,8 +177,8 @@ French.gg Premium débloque des fonctionnalités exclusives pour améliorer votr
 - **Comment candidater** : [french.gg/ambassadeur](https://french.gg/ambassadeur)
 
 ### Programme Partenaire
-**Votre serveur est exceptionnel ?** Devenez partenaire officiel !
-- **Critères** : Serveur actif, bien modéré, communauté engagée
+**Votre projet est exceptionnel ?** Devenez partenaire officiel !
+- **Critères** : Projet actif, bien modéré, communauté engagée...
 - **Avantages** : Badge partenaire, promotion prioritaire, support dédié
 - **Candidature** : [french.gg/partenaire](https://french.gg/partenaire)
 
@@ -225,11 +202,7 @@ Les fonctionnalités Premium sont optionnelles pour des avantages supplémentair
 Aucune permission administrative n'est nécessaire.
 
 ### Mon serveur sera-t-il accepté ?
-Votre serveur sera référencé s'il respecte ces critères simples :
-- ✅ Principalement francophone
-- ✅ Au moins 10 membres réels
-- ✅ Contenu légal et respectueux
-- ✅ Activité récente (messages dans les derniers jours)
+Votre serveur sera référencé s'il respecte la [réglementation de French.gg](https://french.gg/reglementation)
 
 ### Combien de temps entre chaque bump ?
 Le système de bump a un **cooldown de 2 heures**. Vous ne pouvez promouvoir votre serveur qu'une fois toutes les 2 heures pour éviter le spam.
@@ -237,8 +210,7 @@ Le système de bump a un **cooldown de 2 heures**. Vous ne pouvez promouvoir vot
 ### Comment contacter le support ?
 Plusieurs options s'offrent à vous :
 - **Discord Support** : [discord.gg/gXXEUqUs9A](https://discord.gg/gXXEUqUs9A) ⚡ *Le plus rapide*
-- **Email** : contact@delavigne-digital.fr  
-- **Site web** : Formulaire de contact sur french.gg
+- **Email** : contact@french.gg  
 
 ## 📞 Besoin d'Aide ?
 
@@ -247,12 +219,13 @@ Rejoignez notre **Discord Support** : [discord.gg/gXXEUqUs9A](https://discord.gg
 Notre communauté et notre équipe vous aideront rapidement !
 
 ### 📧 Contact Email
-**contact@delavigne-digital.fr** pour les questions générales et le support technique.
+**contact@french.gg** pour les questions générales et le support technique.
 
 ### ⏰ Horaires de Support
-- **Discord communautaire** : 24h/24, 7j/7
-- **Support officiel** : Lundi-Vendredi, 9h-18h (France)
-- **Temps de réponse** : Généralement sous 24h
+- **Support Discord** : 24h/24, 7j/7 
+- **Temps de réponse** :
+Temps de réponse moyen : 30 minutes
+Temps de réponse maximal : 24 heures
 
 ## 🔗 Liens Utiles
 
@@ -279,22 +252,8 @@ Notre communauté et notre équipe vous aideront rapidement !
 ---
 
 > **French.gg** - *La plateforme de référence pour les communautés Discord francophones*  
-> *Développé avec ❤️ par l'équipe Delavigne Digital*
+> *Développé avec ❤️ par l'équipe French.gg*
 
-*Documentation mise à jour : Novembre 2024*
-3. Nommez votre fichier (avec l'extension .md, par exemple "mon-guide.md")
-4. Rédigez votre contenu en Markdown
-5. Suivez les étapes 4 et 5 ci-dessus pour proposer votre nouveau document
-
-### Ajouter des images
-
-Pour ajouter des images à vos documents :
-
-1. Allez dans le dossier `/assets/images/`
-2. Cliquez sur "Add file" puis "Upload files" (pensez à bien le nommer) 
-3. Sélectionnez vos images (de préférence optimisées pour le web)
-4. Cliquez sur "Commit changes"
-5. Dans votre document, référencez l'image avec : `![Description](../../assets/images/nom-image.png)`
 
 ## Conseils pour une bonne contribution
 
@@ -318,4 +277,4 @@ Cette documentation est disponible sous licence [Licence Creative Commons Attrib
 
 ---
 
-*Dernière mise à jour : 15 mai 2025*
+*Dernière mise à jour : 03 novembre 2025*
