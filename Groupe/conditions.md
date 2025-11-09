@@ -1,37 +1,21 @@
-# Conditions pour Créer un Groupe 📝
+# 📝 Conditions pour Créer un Groupe 
 
 > **Critères et prérequis pour être éligible**
 
 ## 🎯 Critères Obligatoires
 
-### Propriété des Serveurs
-- **👑 Propriétaire** d'au moins 2 serveurs Discord  
-- **✅ Référencement** : Serveurs sur French.gg depuis 30+ jours
-- **📊 Activité** : Bumps réguliers et communauté active
-- **🛡️ Historique propre** : Aucune sanction majeure
+### Pré-requis
+- Au moins 4 serveurs **actifs** référencé sont requis pour créer un groupe 
+- Aucune sanction émise par French.gg ou par Discord ces derniers mois
+- Les serveurs doivent avoir un intérêt commun clair justifiant leur regroupement (même communauté, même thème, projet lié, etc.)
+- Chaque serveur doit regroupé au moins 50 membres
 
-### Qualité et Cohérence
-- **🎯 Thème cohérent** : Vision unifiée du groupe
-- **👥 100+ membres** minimum par serveur
-- **📝 Descriptions** complètes et professionnelles  
-- **🎨 Branding** harmonisé entre serveurs
+Une fois les pré-requis réuni, vous pouvez ouvrir un ticket en sélectionnant le bon motif, ensuite, un membre de l'équipe vous accompagnera lors de la création.
 
-### Engagement et Responsabilité
-- **💰 Frais de création** : 29,99€ (non remboursables)
-- **📋 Respect réglementation** : Conformité French.gg
-- **🤝 Engagement long terme** : Minimum 6 mois
-- **📊 Reporting** : Statistiques mensuelles
-
-## ❌ Critères d'Exclusion
-
-### Serveurs Non Éligibles
-- **🚫 Serveurs temporaires** ou événementiels
-- **💸 Contenu commercial** exclusivement  
-- **🔞 Contenu adulte** ou controversé
-- **🤖 Serveurs bots** sans vraie communauté
+> Chaque demande est examinée au cas par cas. French.gg se réserve le droit d'accepter ou de refuser une demande selon ses critères internes.
 
 ---
 
 ## 🆘 Questions
 💬 [discord.gg/gXXEUqUs9A](https://discord.gg/gXXEUqUs9A)  
-📧 groupes@french.gg
+📧 contact@french.gg
