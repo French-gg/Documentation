@@ -1,4 +1,4 @@
-# Gérer votre Groupe de Serveurs ⚙️
+# ⚙️ Gérer votre Groupe de Serveurs
 
 > **Modifier votre groupe de serveur**
 
