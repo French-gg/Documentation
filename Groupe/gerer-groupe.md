@@ -1,66 +1,40 @@
 # Gérer votre Groupe de Serveurs ⚙️
 
-> **Administration et fonctionnalités avancées**
+> **Modifier votre groupe de serveur**
 
-## 🎯 Tableau de Bord Admin
+## 1. Effectuez la commande `/groupe pannel`
+Ensuite, une interface vous sera envoyé par le bot, elle vous permeterra d'accèder aux infos de votre groupe ainsi qu'à son mot de passe.
 
-### Vue d'Ensemble
-- **📊 Statistiques globales** : Métriques consolidées du groupe
-- **👥 Membres totaux** : Somme de tous vos serveurs
-- **📈 Croissance** : Évolution mensuelle du réseau
-- **🎯 Performance** : Classement vs autres groupes
+**A : Modifier le nom** 
+<img width="657" height="524" alt="image" src="https://github.com/user-attachments/assets/6f08322e-e270-4a93-8b3d-74a36bdd46b2" />
+> Cliquez sur "Modifier le nom" afin de le changer
 
-### Gestion des Serveurs
-- **➕ Ajouter serveur** : Étendre votre groupe
-- **✏️ Modifier informations** : Descriptions et visuels
-- **📊 Statistiques individuelles** : Performance par serveur
-- **🔄 Réorganiser** : Ordre d'affichage
 
-## 🚀 Fonctionnalités Avancées
+**B : Modifier l'icon** 
+<img width="657" height="524" alt="image" src="https://github.com/user-attachments/assets/6f08322e-e270-4a93-8b3d-74a36bdd46b2" />
+> Cliquez sur "Modifier l'icon" afin de le mettre à jour
 
-### Cross-Promotion
-- **🔄 Promotion croisée** : Annonces synchronisées
-- **🎪 Événements groupés** : Activités multi-serveurs
-- **👥 Canaux de liaison** : Connexions entre serveurs
-- **📢 Newsletter groupe** : Communication unifiée
 
-### Analytics et Reporting
-- **📊 Rapports détaillés** : Métriques approfondies
-- **📈 Tendances** : Analyses prédictives
-- **🎯 Conversions** : Taux de passage entre serveurs
-- **💡 Recommendations** : Suggestions d'optimisation
+**C : Modifier la bannière** 
+<img width="657" height="524" alt="image" src="https://github.com/user-attachments/assets/6f08322e-e270-4a93-8b3d-74a36bdd46b2" />
+> Cliquez sur "Modifier le nom" afin de la mettre à jour
 
-## 🛡️ Modération Coordonnée
 
-### Outils de Coordination
-- **🚨 Alertes partagées** : Incidents cross-serveur
-- **📋 Règles communes** : Standards unifiés
-- **👥 Équipe étendue** : Modérateurs multi-serveurs
-- **🔄 Actions synchronisées** : Sanctions coordonnées
+**D : Modifier la description** 
+<img width="657" height="524" alt="image" src="https://github.com/user-attachments/assets/6f08322e-e270-4a93-8b3d-74a36bdd46b2" />
+> Cliquez sur "Modifier la description" afin de la changer
 
-### Communication Interne
-- **💬 Chat admin** : Discussion privée équipe
-- **📅 Planning partagé** : Organisation événements
-- **📝 Notes communes** : Informations importantes
-- **🎯 Objectifs groupe** : Suivi des KPIs
 
-## 📈 Optimisation et Croissance
+**E : Modifier l'URL personnalisé** 
+L'URL personnalisé est disponible sur 2 format : 
+- `french.gg/g/url-custom`
+- `frgg.se/url-custom`
 
-### Stratégies de Développement
-- **🎯 Spécialisation** : Niches complémentaires
-- **👥 Passerelles naturelles** : Flux entre serveurs
-- **🏆 Programme fidélité** : Récompenses multi-serveurs
-- **📊 A/B Testing** : Optimisation continue
+> Pour modifier l'URL custom, ouvrez un ticket afin de demander son changement, un modérateur validera par la suite son changement
 
-### Partenariats
-- **🤝 Autres groupes** : Collaborations externes
-- **💼 Sponsors** : Monétisation éthique
-- **🎮 Marques** : Partenariats officiels
-- **📢 Influenceurs** : Collaborations créateurs
 
 ---
 
 ## 🆘 Support Avancé
 💬 [discord.gg/gXXEUqUs9A](https://discord.gg/gXXEUqUs9A)  
-📧 groupes@french.gg  
-📞 Support Priority : groupes-premium@french.gg
+📧 contact@french.gg  
